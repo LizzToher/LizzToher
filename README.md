@@ -11,7 +11,7 @@
 - 👨‍💻 Todos mis proyectos están disponibles en: [https://github.com/LizzToher](https://github.com/LizzToher)
 
 - 💬 Tengo experiencia trabajando con **arquitecturas JavaScript en React, Node.js, npm, firebase, algoritmos, patrones de diseño y modularización en JavaScript y manejo de datos con JSON y servicios RESTful.**
-- <br>
+<br>
 
 ---
 
